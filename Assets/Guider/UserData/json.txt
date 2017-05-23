@@ -1,0 +1,10 @@
+{
+    "address": "thhhhh", 
+    "avatar": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM4Sj9BLUhpIqPQLjVgL9ha1UIjXGHg6NCHD1qH83kgfgZc0ibZy0FcYoc7k3v3licFqwQMYWC71smCMsELJktGZXmuhfcIPudiaWI/0", 
+    "birthday": "2017-05-25", 
+    "code": 0, 
+    "gender": 1, 
+    "nickname": "Sam", 
+    "phone": "12323123", 
+    "token": "eyJhbGciOiJIUzI1NiIsImV4cCI6MTQ5ODAwOTI3MSwiaWF0IjoxNDk1NDE3MjcxfQ.eyJpZCI6MTAwMDA3fQ.DvYKb_WximpImUr5g16kdrn07XZIMvNLyTukPYdytAw"
+}
